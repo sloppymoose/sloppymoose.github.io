@@ -1,0 +1,14 @@
+# Site settings
+title: Sloppy Moose Running Club
+email: derek.lindahl@gmail.com
+description: >
+  We Run SacTown
+default_author: Mousse Blakie
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://sloppymoose.github.io
+twitter_username: WeRunSacTown
+github_username:  sloppymoose
+timezone: GMT
+
+# Build settings
+markdown: kramdown
